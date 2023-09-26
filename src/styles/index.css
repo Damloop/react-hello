@@ -21,3 +21,17 @@ input {
   border: none;
   width: 100%;
 }
+.bigCounter {
+  text-align: center;
+  background: #101010;
+}
+
+.bigCounter div {
+  display: inline-block;
+  font-size: 100px;
+  line-height: 100px;
+  background: #101010;
+  color: white;
+  padding: 10px;
+  margin: 3px;
+}
